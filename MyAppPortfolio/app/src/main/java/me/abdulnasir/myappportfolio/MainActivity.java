@@ -33,7 +33,6 @@ public class MainActivity extends ActionBarActivity {
         //toast.setView(view);
         toast.show();
     }
-
     public void capstoneMessage(View view) {
         Context context = getApplicationContext();
         int duration = Toast.LENGTH_SHORT;
